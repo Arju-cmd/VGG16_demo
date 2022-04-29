@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data/
+
+notebook/VGG16_fll_model.h5
